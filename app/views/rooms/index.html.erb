@@ -1,0 +1,11 @@
+
+<div class="card-product">
+  <div class="card-product-infos">
+    <% @rooms.each do |room| %>
+      <%= room.availability %>
+      <%= room.price%>
+      <%= room.description %>
+    <% end %>
+  </div>
+</div>
+
