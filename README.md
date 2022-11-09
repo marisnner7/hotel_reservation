@@ -1,24 +1,11 @@
-# README
+# Booking reservation
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Book a room. Show the prices. 
+Doesn't allow to book a rook already booked. 
 
-Things you may want to cover:
+Room: have description, price and availability. 
+Reservations: checkin date, checkout date. 
+User: name and email. 
 
-* Ruby version
+gems used: rspec, faker
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
