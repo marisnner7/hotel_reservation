@@ -7,5 +7,9 @@ Room: have description, price and availability.
 Reservations: checkin date, checkout date. 
 User: name and email. 
 
+ENDPOINT
+/
+"show all rooms available"
+
 gems used: rspec, faker
 
